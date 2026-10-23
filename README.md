@@ -3,9 +3,9 @@
 # Python Activity-Based Learning
 
 ## Student Details
-- Name: Your Name
-- Roll Number: Your Roll Number
-- Branch: CSM
+- Name: P.Thulasi 
+- Roll Number: 26001000
+- Branch: CSM-3
 - Course: Python Programming
 
 ## Project Description
